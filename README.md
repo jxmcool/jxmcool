@@ -63,10 +63,6 @@ Simple task manager application with a focus on architecture and data persistenc
 
 **Repository:** https://github.com/jxmcool/TodoList
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxmcool&layout=compact&theme=default)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxmcool&show_icons=true&theme=default)
 
 ---
 
