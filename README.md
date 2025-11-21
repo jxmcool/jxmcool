@@ -1,7 +1,7 @@
 # Android Developer — Basharin Oleg
 
 Junior Android Developer specializing in Kotlin and modern Android development with Jetpack Compose.  
-Focused on building clean, maintainable applications and improving development skills through практические проекты.
+Focused on building clean, maintainable applications and improving development skills through practical projects.
 
 ---
 
@@ -35,6 +35,7 @@ Focused on building clean, maintainable applications and improving development s
 - Gradle (dependencies, modules, build configuration)  
 - Figma (basic level)
 
+
 ---
 
 ## 📱 Projects
@@ -61,6 +62,19 @@ Simple task manager application with a focus on architecture and data persistenc
 - UI state management via ViewModel  
 
 **Repository:** https://github.com/jxmcool/TodoList
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxmcool&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxmcool&show_icons=true&theme=default)
+
+---
+
+## 🚀 Currently Learning
+
+- Hilt (Dependency Injection)  
+- Coroutines (advanced usage)  
+- Clean Architecture basics
 
 
 ## 📫 Contacts
